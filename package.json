@@ -1,7 +1,7 @@
 {
   "name": "todojs",
   "version": "1.0.0",
-  "description": "Learning modern JS frameworks in a single todo app",
+  "description": "Learning modern JS frameworks with a single todo app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
