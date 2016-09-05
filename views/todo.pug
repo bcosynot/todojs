@@ -15,3 +15,7 @@ html
                     type="submit"
                     value="Add"
                     )/
+         ='\n'
+         ul
+             each todo in todos
+                 li #{todo.content}
